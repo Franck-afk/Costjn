@@ -1,0 +1,5 @@
+{
+  "name": "Jacob Grønberg Portfolio Preloader",
+  "description": "A minimalist, animated preloader using GSAP based on a design screenshot.",
+  "requestFramePermissions": []
+}
